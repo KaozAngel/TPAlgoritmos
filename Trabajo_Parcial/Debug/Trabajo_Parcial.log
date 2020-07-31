@@ -1,0 +1,34 @@
+﻿  MyForm.cpp
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\CNodo.h(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\Metodos_Dibujo.h(44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\Metodos_Dibujo.h(55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\Metodos_Dibujo.h(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\CLista_Enlazada.h(153): warning C4553: '==': operator has no effect; did you intend '='?
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\CLista_Enlazada.h(211): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\CLista_Enlazada.h(213): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\CLista_Dob_Circular.h(206): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\CLista_Dob_Circular.h(208): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\CLista_Dob_Enlazada.h(199): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\CLista_Dob_Enlazada.h(201): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\Lista_Circular.h(195): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\Lista_Circular.h(197): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\Lista_Enlazada_PF.h(124): warning C4553: '==': operator has no effect; did you intend '='?
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\Lista_Enlazada_PF.h(181): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\Lista_Enlazada_PF.h(183): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\Lista_Circular_PF.h(192): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\Lista_Circular_PF.h(194): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\Lista_Doble_PF.h(196): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\Lista_Doble_PF.h(198): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\MyForm.h(235): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\MyForm.h(235): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\MyForm.h(298): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\MyForm.h(298): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\MyForm.h(461): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+l:\upc\estrucuturas\trabajo_parcial\trabajo_parcial\trabajo_parcial\trabajo_parcial\MyForm.h(461): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+MyForm.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Trabajo_Parcial.vcxproj -> L:\UPC\Estrucuturas\Trabajo_Parcial\Trabajo_Parcial\Trabajo_Parcial\Debug\Trabajo_Parcial.exe
+  Trabajo_Parcial.vcxproj -> L:\UPC\Estrucuturas\Trabajo_Parcial\Trabajo_Parcial\Trabajo_Parcial\Debug\Trabajo_Parcial.pdb (Full PDB)

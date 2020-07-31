@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de código fuente">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Listas Doblemente Enlazadas">
+      <UniqueIdentifier>{8a5454c1-1a1f-433f-a96e-07a9832c9a4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Listas Simplemente Enlazadas">
+      <UniqueIdentifier>{792ae586-e3a5-4724-9b62-2f6563ba79c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Listas Circulares">
+      <UniqueIdentifier>{57f5f887-e364-48fc-b09b-25bfdc1048cd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MyForm.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyForm.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="CNodo.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Metodos_Dibujo.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="CLista_Dob_Circular.h">
+      <Filter>Archivos de encabezado\Listas Doblemente Enlazadas</Filter>
+    </ClInclude>
+    <ClInclude Include="CLista_Dob_Enlazada.h">
+      <Filter>Archivos de encabezado\Listas Doblemente Enlazadas</Filter>
+    </ClInclude>
+    <ClInclude Include="Lista_Doble_PF.h">
+      <Filter>Archivos de encabezado\Listas Doblemente Enlazadas</Filter>
+    </ClInclude>
+    <ClInclude Include="CLista_Enlazada.h">
+      <Filter>Archivos de encabezado\Listas Simplemente Enlazadas</Filter>
+    </ClInclude>
+    <ClInclude Include="Lista_Enlazada_PF.h">
+      <Filter>Archivos de encabezado\Listas Simplemente Enlazadas</Filter>
+    </ClInclude>
+    <ClInclude Include="Lista_Circular.h">
+      <Filter>Archivos de encabezado\Listas Circulares</Filter>
+    </ClInclude>
+    <ClInclude Include="Lista_Circular_PF.h">
+      <Filter>Archivos de encabezado\Listas Circulares</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MyForm.resx">
+      <Filter>Archivos de recursos</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+</Project>
